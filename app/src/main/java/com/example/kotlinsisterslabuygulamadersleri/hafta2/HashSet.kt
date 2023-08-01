@@ -30,7 +30,7 @@ fun sadelesmisListe(liste: List<Int>):Set<Int>{
 
 
 
-//Verilen bir listedeki tekrar eden elemanları HashSet olarak döndüren bir fonksiyon yazın (aşağıda)
+//Verilen bir listedeki tekrar eden elemanları HashSet olarak döndüren bir fonksiyon yazın.
 
 
 fun main () {

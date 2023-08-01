@@ -1,6 +1,6 @@
 package com.example.kotlinsisterslabuygulamadersleri.hafta2
 
-//Ornek1:(2 parametre alan bir fonksiyon çağırarak)
+//Ornek1:(2 parametre alan bir fonksiyon çağırarak: + operatoruyle)
 /* fun main() {
     val liste1 = listOf(5, 1, 9, 3, 7)
     val liste2 = listOf(2, 4, 6, 8, 10)
@@ -29,7 +29,7 @@ fun main() {
 
  */
 
-//Ornek3:(fonksiyonsuz)
+//Ornek3:(fonksiyonsuz: + operatoruyle)
 
 fun main() {
     val liste1 = listOf(1, 2, 3)
